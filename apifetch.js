@@ -1,4 +1,4 @@
-const url = 'https://discord.com/channels/@me/1262688294429528106/1281648470704259143'; 
+const url = 'https://jsonplaceholder.typicode.com/posts'; 
 
 fetch(url)
   .then(response => {
